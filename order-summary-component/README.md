@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-css-flexbox-CUbgRVwqcd)
+- Live Site URL: [Vercel](https://order-summary-component-arjjkq0yg-justinnvera.vercel.app)
 
 ## My process
 
